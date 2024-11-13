@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 - 💻 I have 3 years of experience in data engineering and data analytics.
 - 👩‍💻 I am currently developing various industry level data engineering projects to upgrade my knowledge and skills.
-- 🎓 Graduated from Frankfurt University of Applied Sciences with Master of Science(M.Sc.) in High Integrity Systems(HIS).
+- 🎓 Graduated from Frankfurt University of Applied Sciences with Master of Science(M.Sc.) in High Integrity Systems(H.I.S.).
 - 📍 I am currently based in Bad Homburg near Frankfurt am Main in Germany.
 - 🇮🇳 I am from India.
 
