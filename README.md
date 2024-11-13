@@ -1,4 +1,4 @@
-## Hi there, I am Bansari 👋
+# Hi there, I am Bansari 👋
 
 <!--
 **vadgamabansari/vadgamabansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
+## About me
 - 📍 I am currently based in Bad Homburg near Frankfurt am Main in Germany.
 - 🇮🇳 I am from India.
+- 🎓 Graduated from Frankfurt University of Applied Sciences with Master of Science(M.Sc.) in High Integrity Systems(HIS).
+- 💻 I have 3 years of experience in data engineering and data analytics.
