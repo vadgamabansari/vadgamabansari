@@ -1,4 +1,4 @@
-# Hi there, I am Bansari. Welcome to my GitHub's profile. 👋
+# Hey there, I am Bansari. Welcome to my GitHub's profile. 👋
 
 <!--
 **vadgamabansari/vadgamabansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 ### [Project 1: Data engineering project on flight data](https://github.com/vadgamabansari/airlines-data-engineering)
-- The ETL pipeline in this project has been built using tools and technologies like **Apache Kafka**, **Apache Airflow**, **Apache Cassandra**, **Postgres**, **Redis**, and **Docker**.
+- The ETL pipelines in this project are built using tools and technologies like **Apache Kafka**, **Apache Airflow**, **Apache Cassandra**, **Postgres**, **Redis**, and **Docker** in **Python**.
 
 ### Stay tuned on my profile for upcoding projects.
 
