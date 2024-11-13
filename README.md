@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+- 📍 I am currently based in Bad Homburg near Frankfurt am Main in Germany.
+- 🇮🇳 I am from India.
