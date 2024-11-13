@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 ### [Project 1: Data engineering project on flight data](https://github.com/vadgamabansari/airlines-data-engineering)
-- The ETL pipelines in this project are built using tools and technologies like **Apache Kafka**, **Apache Airflow**, **Apache Cassandra**, **Postgres**, **Redis**, and **Docker** in **Python**.
+- The ETL pipelines in this project are built using tools and technologies like **Apache Kafka**, **Apache Airflow**, **Apache Cassandra**, and **Docker** in **Python** programming language.
 
 ### Stay tuned on my profile for upcoding projects.
 
