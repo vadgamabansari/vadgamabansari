@@ -32,5 +32,10 @@ Here are some ideas to get you started:
 ### [Project 1: Data engineering project on flight data](https://github.com/vadgamabansari/airlines-data-engineering)
 - The ETL pipelines in this project are built using tools and technologies like **Apache Kafka**, **Apache Airflow**, **Apache Cassandra**, and **Docker** in **Python** programming language.
 
+### [Project 2: Data engineering project on Spotify data](https://github.com/vadgamabansari/aws-spotify-insights-data-pipeline)
+- The ETL pipelines in this project is built using **AWS** services like **Lambda**, **Glue**, as well as **S3**, along with **Snowflake** and **Python** programming language.
+- This project is launching soon.
+
+
 ### Stay tuned on my profile for upcoding projects.
 
