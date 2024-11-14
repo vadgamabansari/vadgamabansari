@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## Data Engineering Journey
-- I am currently in the development phase of my ETL/ELT data engineering projects on **batch data** as well as **streaming data** on various domains such as metallurgical, aviation, finance, e-commerce, and digital media.
+- I am currently in the development phase of my ETL/ELT data engineering projects on **batch data** as well as **streaming data** on various domains such as aviation, finance, e-commerce, and digital media.
 - I am currently exploring technologies and frameworks such as **Apache Kafka**, **Apache Airflow**, **Apache Spark**, **Big Data**, **Microsoft Azure**, and **AWS** on which my projects are based on.
 
 
