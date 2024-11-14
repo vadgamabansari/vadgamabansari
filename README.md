@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### [Project 2: Data engineering project on Spotify data](https://github.com/vadgamabansari/aws-spotify-insights-data-pipeline)
 - The ETL pipeline in this project is built using **AWS** services like **Lambda**, **Glue**, as well as **S3**, along with **Snowflake** and **Python** programming language.
-- This project is launching soon.
+- This project is under development.
 
 
 ### Stay tuned on my profile for upcoding projects.
